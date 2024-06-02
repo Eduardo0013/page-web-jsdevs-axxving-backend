@@ -1,4 +1,4 @@
-# Cómo Correr el Proyecto
+# Cómo configurar el proyecto
 
 ### Este documento te guiará a través de los pasos necesarios para configurar y ejecutar un proyecto de Node utilizando Express.
 ### Prerequisitos
