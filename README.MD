@@ -7,8 +7,10 @@
 
 ## Instalación
 1. Clonar el repositorio
-    `git clone <URL-del-repositorio>
-    ```cd <nombre-del-repositorio>
+    ```bash
+    git clone <URL-del-repositorio>
+    ```bash
+    cd <nombre-del-repositorio>
 
 2. Instalar dependencias
     npm install
