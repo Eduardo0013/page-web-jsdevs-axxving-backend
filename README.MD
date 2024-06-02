@@ -9,7 +9,6 @@
 1. Clonar el repositorio
     ```bash
     git clone <URL-del-repositorio>
-    ```bash
     cd <nombre-del-repositorio>
 
 2. Instalar dependencias
