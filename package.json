@@ -1,0 +1,19 @@
+{
+  "name": "page-web-jsdevs-axxving-backend",
+  "version": "1.0.0",
+  "description": "Servició para el envio de correos de jsdevs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Eduardo0013",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.13"
+  }
+}
