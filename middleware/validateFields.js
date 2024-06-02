@@ -7,10 +7,10 @@ const validateFields = (req,res,next) => {
     const {name,email,message} = req.body
     if(!name && !email && !message){
         return res.status(400).json({
-            message : 'Bad request'
+            message : '400 Bad request'
         })
     }    
     next()
 }
 
-export default validateFields
+module.exports = validateFields
